@@ -42,7 +42,7 @@ legend("topright",c("Sub_metering_1" , "Sub_metering_2", "Sub_metering_3"),lty=c
 with(epcc, plot(DateTime,Global_reactive_power, type="l", xlab = "Date and Time",ylab="Global Reactive Power"))
 
 #dev.copy(png, "plot4.png", width = 480, height = 480)
-dev.off()
+dev.off() 
 
 
 
