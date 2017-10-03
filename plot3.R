@@ -33,7 +33,7 @@ legend("topright",c("Sub_metering_1" , "Sub_metering_2", "Sub_metering_3"),lty=c
 #dev.copy(png, "plot3.png", width = 480, height = 480, res=120)
 
 dev.off()
-
+ 
 
 
 
